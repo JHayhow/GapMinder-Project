@@ -2,8 +2,6 @@
 
 This is a short project comparing several variables all related to quality of human life. 
 
-It mainly shows data wrangling skills.
+It mainly shows data wrangling skills and some data exploration. Issues dealt with include dataset merging, dealing with missing values and visualizing data in 1-D in order to see the distributions of individual variables.
 
-A short report of the wrangling process is included.
-
-A short report including some insights into the data is also included.
+A pdf copy is also provided as "GapMinder.pdf".
